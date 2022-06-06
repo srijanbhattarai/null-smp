@@ -1,0 +1,3 @@
+"ip":"NULLSmpsussy.aternos.me",
+"port":"18805",
+"name":"NULL"
